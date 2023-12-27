@@ -8,27 +8,27 @@ class App extends Component {
   state = {
      players:[
       {
-        name:"Ali",
+        name:"Ali Ahsan",
         score:0,
         id : 1
       },
       {
-        name:"Akhtar",
+        name:"Akhtar Gull",
         score:0,
         id : 2
       },
       {
-        name:"Waqar",
+        name:"Waqar Lala",
         score:0,
         id : 3
       },
       {
-        name:"Irfan",
+        name:"Irfan Khan",
         score:0,
         id : 4
       },
       {
-        name:"Arslan",
+        name:"Arslan Rana",
         score:0,
         id : 5
       },
